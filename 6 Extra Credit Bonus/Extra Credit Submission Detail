@@ -1,0 +1,93 @@
+Name: Farhana Akter Badhon
+ID: 20266023
+
+Throughout this Spring-2021 semester, I have studied and completed courses about following these topics along with class for Natural Language Processing (CSE 712)
+
+Coursera credentials:
+Email: farhana.akter.badhon@g.bracu.ac.bd
+Pass: 659dbenoodles
+
+Course Name: Natural Language Processing and Capstone Assignment on Coursera
+Summary: Throughout this course, I have learnt the basics of Natural Language Processing and Capstone Assignment: what it is and how it is implemented. The Natural Language Processing course covers concepts like statistical machine translation and neural models, deep semantic similarity models (DSSM), neural knowledge base embedding, deep reinforcement learning techniques, neural models applied in image captioning, and visual question answering with Python’s Natural Language Toolkit.
+
+https://www.coursera.org/learn/natural-language-processing-captsone-assignment/home/week/1
+
+
+
+Course Name: Natural Language Processing in TensorFlow on Coursera
+Summary: Throughout this course, I have come to know about Natural Language Processing in TensorFlow: I have built natural language processing systems using TensorFlow. I have learnt to process text, including tokenizing and representing sentences as vectors, so that they can be input to a neural network. I have also learnt to apply RNNs, GRUs, and LSTMs in TensorFlow. Finally, you’ll get to train an LSTM on existing text to create original poetry!
+
+https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1
+
+
+Course Name: Cloud Computing Basics (Cloud 101) on Coursera
+Summary: Throughout this course, I have learnt the basics of Cloud computing: what it is, what it supports, and how it is delivered. This course has covered storage 
+services, Cloud economics, levels of managed infrastructure, and Azure services. I have explored different deployment models of Cloud computing, as well as several 
+hosting scenarios. Last but not least, I have also learnt about some of the cloud platforms and also come to know about the future of cloud computing.
+
+https://www.coursera.org/learn/cloud-computing-basics/home/week/1
+
+
+
+1.
+https://developer.ibm.com/events/webinar-english-an-introduction-to-nlp-12-04-2020/
+
+Summary: In this webinar, I started with understanding what NLP is, it’s pipeline and the open source tools available out there. After that, I dive right into what Watson NLU, Watson NLU’s features, use cases and how it works and conclude with a hands on demonstrating integrating it with an application and its capabilities.
+
+2.
+https://www.crowdcast.io/e/hands-on-introduction-to/
+
+This workshop introduced Natural Language Processing in Python. I have learnt how to process text with NLTK and Gensim to derive useful insights. Foundational concepts like tokenization and part of speech tagging and complex topics like Word2Vec, sentiment analysis and topic modeling are covered.
+
+3.
+https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html
+
+In this blogpost they have explained how our ranking algorithm is powered by deep neural networks, leveraging the modeling capabilities and AI platform built by Cortex, one of our in-house AI teams at Twitter. In a nutshell: this means more relevant timelines now, and in the future, as this opens the door for us to use more of the many novelties that the deep learning community has to offer, especially in the areas of NLP (Natural Language Processing), conversation understanding, and media domains.
+
+4.
+https://monkeylearn.com/blog/how-to-create-text-classifiers-machine-learning/
+
+In this post, they described the process on how you can successfully train text classifiers with machine learning using MonkeyLearn. 
+
+5.
+https://github.com/IBM/use-advanced-nlp-and-tone-analyser-to-analyse-speaker-insights/blob/master/README.md
+
+From this document I studied that Natural Language Understanding includes a set of text analytics features that can be used to extract meanings from unstructured data such as a text file. In this code pattern, given a text file, I also learnt how to extract keywords, emotions, sentiments, positive sentences, and much more using Watson Natural Language Understanding and Tone Analyzer.
+
+6.
+https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
+In this tutorial, I have learnt what Text Analytics is, NLP and text mining, basics of text analytics operations using NLTK such as Tokenization, Normalization, Stemming, Lemmatization and POS tagging. What are sentiment analysis and text classification using scikit-learn?
+
+7.
+https://nlpprogress.com/
+
+This document aims to track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art (SOTA) across the most common NLP tasks and their corresponding datasets.It aims to cover both traditional and core NLP tasks such as dependency parsing and part-of-speech tagging as well as more recent ones such as reading comprehension and natural language inference. The main objective is to provide the reader with a quick overview of benchmark datasets and the state-of-the-art for their task of interest, which serves as a stepping stone for further research. 
+
+8.
+https://www.youtube.com/watch?v=xvqsFTUsOmc
+
+In this video they showed an example in Jupyter Notebook that goes through all of the steps of a text analysis project, using several NLP libraries in Python including NLTK, TextBlob, spaCy and gensim along with the standard machine learning libraries including pandas and scikit-learn.
+
+9.
+https://www.youtube.com/watch?v=68lIfswwG2A
+
+In this natural language processing video, I got to know what is a natural language, text mining in NLP, file handling in python, NLTK package, tokenization, artificial intelligence, hands-on demo, frequency distribution, stop words, and the concepts of bigrams, trigrams, and n-grams, NLP interview questions in detail. This NLP with Deep Learning and Machine Learning video is a must-watch for everyone who wants to learn NLP and make a career in the AI domain.
+
+10.
+https://www.youtube.com/watch?v=-9vVhYEXeyQ
+
+In this tutorial, I took a step-by-step walkthrough of self-attention, the mechanism powering the deep learning model BERT, and other state-of-the-art transformer models for natural language processing (NLP). 
+
+11.
+BOOK: A Primer on Neural Network Models for Natural Language Processing
+Author: Yoav Goldberg
+
+This book surveys neural network models from the perspective of natural language processing research, in an attempt to bring natural-language researchers up to speed with the neural techniques. This book covers input encoding for natural language tasks, feed-forward networks, convolutional networks, recurrent networks and recursive networks, as well as the computation graph abstraction for automatic gradient computation.
+
+12.
+BOOK: Natural Language Processing with Python --- Analyzing Text with the Natural Language Toolkit
+Authors: Steven Bird, Ewan Klein, and Edward Loper
+
+I read this book to know more about NLP. By "natural language" we mean a language that is used for everyday communication by humans; languages like English, Hindi or Portuguese. In contrast to artificial languages such as programming languages and mathematical notations, natural languages have evolved as they pass from generation to generation, and are hard to pin down with explicit rules. We will take Natural Language Processing — or NLP for short — in a wide sense to cover any kind of computer manipulation of natural language. At one extreme, it could be as simple as counting word frequencies to compare different writing styles. At the other extreme, NLP involves "understanding" complete human utterances, at least to the extent of being able to give useful responses to them.
+
